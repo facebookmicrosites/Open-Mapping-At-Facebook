@@ -15,6 +15,8 @@
 
 - [RapiD hotkeys](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/RapiD-Hotkeys)
 
+- [Map With AI FAQ](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/blob/master/FAQ.md)
+
 
 ## License
 **Open Mapping At Facebook** is MIT licensed, as found in the [LICENSE](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/blob/master/LICENSE.md) file.
