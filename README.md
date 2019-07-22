@@ -5,7 +5,7 @@
 **Welcome!** This is a documentation repository for Facebook's mapping-related projects on OpenStreetMap. Please refer to sections below for materials covered by this repo.
 
 ## General Info
-- Please check out [this OSM diary post](https://www.openstreetmap.org/user/DrishT/diary/368711) to get more information about our **Map With AI** service.
+- Please check out [Mapwith.ai](Mapwith.ai) to get more information about our **Map With AI** service.
 
 - Visit [this OSM Wiki page](https://wiki.openstreetmap.org/wiki/AI-Assisted_Road_Tracing) to read about our data importing process for projects in Thailand and Indonesia.
 
