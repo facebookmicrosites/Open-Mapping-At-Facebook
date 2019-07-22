@@ -13,7 +13,7 @@
 ## Map With AI Training Materials
 - If you are ready to do mapping then head to [Self Service Training Materials ](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki) to learn how to use our tools.
 
-- [RapiD hotkeys](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/RapiD-Hotkeys)
+- [RapiD hotkeys](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/RapiD-Specific-Hotkeys)
 
 - [Map With AI FAQ](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/FAQ)
 
