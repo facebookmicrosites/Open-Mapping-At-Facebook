@@ -15,7 +15,7 @@
 
 - [RapiD hotkeys](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/RapiD-Hotkeys)
 
-- [Map With AI FAQ](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/blob/master/FAQ.md)
+- [Map With AI FAQ](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/FAQ)
 
 
 ## License
