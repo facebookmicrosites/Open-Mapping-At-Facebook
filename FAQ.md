@@ -52,9 +52,9 @@ For example, in August of 2018, Kerala, India experienced a severe flooding even
 
 All RapiD changesets will include the tag “created_by - RapiD 0.9.0” (or current version number) and assuming the default imagery isn’t changed “imagery_used - Facebook's Map With AI - Maxar Imagery”.
 
-**Why not put the “source” tag on the changeset instead of every single feature?**
+**Why do you put a “source” tag on every AI-generated road?**
 
-We have been asked by community members before to identify data coming from Facebook services in a more specific way, so we decided to tag individual features along with changeset comments.
+We have been asked by community members before to identify data coming from Facebook services in finer granularity than changeset, so we decided to also tag every AI-generated road. This can be helpful in some cases; e.g. when a RapiD changeset contains both AI-generated roads and manual changes on other map features.
 
 **Is all RapiD data open source?**
 
