@@ -15,6 +15,8 @@
 
 - [RapiD Specific Hotkeys](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/RapiD-Specific-Hotkeys)
 
+- [Currently Supported RapiD Countries](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/Available-Countries)
+
 - [Map With AI FAQ](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/FAQ)
 
 
