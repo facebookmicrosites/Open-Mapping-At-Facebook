@@ -25,3 +25,5 @@ AI-generated roads have been added to the following countries and they are now s
 * [Wyoming](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/41.1493/-104.8316)
 
 * [Minnesota](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.58/45.56126/-94.32213)
+
+* [Louisiana](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.59/30.47076/-91.17040)
