@@ -6,7 +6,7 @@
 
 ## What's New!
 
-**2019-08-12:** we have launched Map With AI in 3 new countries: Malaysia, Philippines, and United States. Check our [What's New Page](WAHTSNEW.md) for details!
+**2019-08-12:** we have launched Map With AI in 3 new countries: Malaysia, Philippines, and United States. Check our [What's New Page](WHATSNEW.md) for details!
 
 ## General Info
 - Please check out [Mapwith.ai](https://mapwith.ai) to get more information about our **Map With AI** service.
