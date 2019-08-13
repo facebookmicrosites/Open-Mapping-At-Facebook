@@ -2,7 +2,7 @@
 
 #### :tada: New Countries Supported
 
-AI-generated roads have been added to the following countries and they are now supported in RapiD. Below are some locations with good AI-generated coverage to start mapping.
+AI-generated roads have been added to the following countries and they are now supported in RapiD. Below are some example locations with good AI-generated coverage to start mapping.
 
 **Malaysia**
 
@@ -20,7 +20,7 @@ AI-generated roads have been added to the following countries and they are now s
 
 * [Dumangas](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.31/10.81954/122.70940)
 
-**United States**
+**United States** (Note: data are available in all the lower 48 states. Links below are just a few examples.)
 
 * [Wyoming](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/41.1493/-104.8316)
 
