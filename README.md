@@ -13,7 +13,7 @@
 
 - Visit [this OSM Wiki page](https://wiki.openstreetmap.org/wiki/AI-Assisted_Road_Tracing) to read about our data importing process for projects in Thailand and Indonesia.
 
-## Available Countries
+## Map With AI Available Countries
 
 Please refer to this [list of Available Countries](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/Available-Countries).
 
