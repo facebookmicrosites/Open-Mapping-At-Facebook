@@ -4,6 +4,25 @@
 
 AI-generated roads have been added to the following countries and they are now supported in RapiD. Below are some example locations with good AI-generated coverage to start mapping.
 
+**Ethiopia**
+
+* [Bahir Dar](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/11.5827/37.3943)
+
+* [Dessie](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/11.1232/39.6337)
+
+**Mozambique**
+
+* [Tete](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/-16.1524/33.6041)
+
+* [Beira](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/-19.8325/34.8883)
+
+
+### Map With AI Update 2019-Aug-12
+
+#### :tada: New Countries Supported
+
+AI-generated roads have been added to the following countries and they are now supported in RapiD. Below are some example locations with good AI-generated coverage to start mapping.
+
 **Malaysia**
 
 * [Dongongan](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/5.8714/116.0837)
@@ -27,15 +46,3 @@ AI-generated roads have been added to the following countries and they are now s
 * [Minnesota](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.58/45.56126/-94.32213)
 
 * [Louisiana](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.59/30.47076/-91.17040)
-
-**Ethiopia**
-
-* [Bahir Dar](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/11.5827/37.3943)
-
-* [Dessie](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/11.1232/39.6337)
-
-**Mozambique**
-
-* [Tete](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/-16.1524/33.6041)
-
-* [Beira](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/-19.8325/34.8883)
