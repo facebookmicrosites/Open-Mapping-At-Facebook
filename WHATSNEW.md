@@ -1,4 +1,4 @@
-### Map With AI Update 2019-Aug-12
+### Map With AI Update 2019-Aug-16
 
 #### :tada: New Countries Supported
 
