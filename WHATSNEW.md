@@ -1,3 +1,27 @@
+### Map With AI Update 2019-Sep-27
+
+#### :tada: New Countries Supported
+
+AI-generated roads have been added to Democratic Republic of Congo, Zambia, and Turkey! Sample links to start browsing and mapping:
+
+**Democratic Republic of Congo**:
+
+* [Idiofa](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.10/-4.96569/19.56986)
+
+* [Kananga](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=17.00/-5.91754/22.43409)
+
+**Zambia**:
+
+* [Kabwe](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/-14.4705/28.4376)
+
+* [Kaoma](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.00/-14.8122/24.7940)
+
+**Turkey**:
+
+* [Nevşehir](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=17.00/38.62613/34.71397)
+
+* [Konya](https://mapwith.ai/rapid#background=Maxar-FB&disable_features=boundaries&map=16.16/38.03435/33.07530)
+
 ### Map With AI Update 2019-Aug-30
 
 #### :tada: New Countries Supported
