@@ -6,6 +6,8 @@
 
 ## What's New!
 
+**2019-10-14:** RapiD v1.0.2 has been released! This version has been merged with [iD v2.15.5](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md#2155), and has a couple of new features. Check [the release note](https://github.com/facebookincubator/RapiD/releases/tag/rapid-v1.0.2) for more details.
+
 **2019-09-27:** 3 more countries have launched for Map With AI. Data is now available in **Democratic Republic of Congo, Zambia, and Turkey**! Check our [What's New Page](WHATSNEW.md) for details!
 
 
