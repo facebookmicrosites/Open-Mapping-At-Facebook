@@ -1,3 +1,9 @@
+### Map With AI Update 2019-Oct-14
+
+#### :tada: New Version of RapiD Released!
+
+RapiD v1.0.2 has been released! This version has been merged with [iD v2.15.5](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md#2155), and has a couple of new features. Check [the release note](https://github.com/facebookincubator/RapiD/releases/tag/rapid-v1.0.2) for more details.
+
 ### Map With AI Update 2019-Sep-27
 
 #### :tada: New Countries Supported
