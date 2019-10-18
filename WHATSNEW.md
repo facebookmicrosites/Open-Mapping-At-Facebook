@@ -1,3 +1,34 @@
+### Map With AI Update 2019-Oct-17
+
+#### :tada: Newly supported countries!
+
+Botswana
+
+Brunei
+
+Equatorial Guinea
+
+eSwatini
+
+French Guiana
+
+Gambia
+
+Guinea-Bissau
+
+Panama
+
+Singapore
+
+Uruguay
+
+Puerto Rico
+
+#### :tada: Country Scale Road Exports
+
+Our AI predicted roads are now available for download as country scale exports. The data is provided in Geopackage format. Get them [here!](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/Available-Countries)
+
+
 ### Map With AI Update 2019-Oct-14
 
 #### :tada: New Version of RapiD Released!
