@@ -1,5 +1,114 @@
 ### Map With AI Update 2019-Oct-17
 
+#### :tada: 50 Newly supported countries!
+
+Antigua and Barbados
+
+Anguilla
+
+Angola
+
+Aruba
+
+Barbados
+
+Burundi
+
+Benin
+
+St-Barthélemy
+
+Bolivia
+
+Bonaire, Sint Eustatius and Saba
+
+Bahamas
+
+Belize
+
+Côte d'Ivoire
+
+Cameroon
+
+Costa Rica
+
+Cabo Verde
+
+Curaçao
+
+Dominica
+
+Dominican Republic
+
+Ecuador
+
+Falkland Islands
+
+Grenada
+
+Ghana
+
+Guinea
+
+Guadeloupe
+
+Guatemala
+
+Honduras
+
+Haiti
+
+Jamaica
+
+St. Kitts and Nevis
+
+Cayman Islands
+
+Saint Lucia
+
+Liberia
+
+St-Martin
+
+Martinique
+
+Montserrat
+
+Namibia
+
+Nicaragua
+
+Paraguay
+
+Rwanda
+
+Sierra Leone
+
+Senegal
+
+Somalia
+
+El Salvador
+
+Sint Maarten
+
+Turks and Caicos Islands
+
+Togo
+
+Trinidad and Tobago
+
+St. Vincent and the Grenadines
+
+British Virgin Islands
+
+South Africa
+
+Zimbabwe
+
+
+### Map With AI Update 2019-Oct-17
+
 #### :tada: Newly supported countries!
 
 Botswana
