@@ -1,4 +1,112 @@
-### Map With AI Update 2019-Oct-17
+### Map With AI Update 2019-Nov-21
+
+#### :tada: 50 more newly supported countries! Complete coverage of South America and Africa. 
+
+Check the Available Countries page for a list of countries using fresher Maxar Premium imagery.
+
+
+Albania
+
+Algeria
+
+Argentina
+
+Bhutan
+
+Bosnia and Herzegovina
+
+Brazil
+
+Bulgaria
+
+Burkina Faso
+
+Cambodia
+
+Central African Republic
+
+Chad
+
+Chile
+
+Colombia
+
+Congo
+
+Croatia
+
+Cuba
+
+Djibouti
+
+Eritrea
+
+Gabon
+
+Greece
+
+Guyana
+
+Hungary
+
+India
+
+Laos
+
+Lesotho
+
+Libya
+
+Madagascar
+
+Malawi
+
+Mali
+
+Mauritania
+
+Moldova
+
+Montenegro
+
+Morocco
+
+Myanmar
+
+Nepal
+
+Niger
+
+North Macedonia
+
+Pakistan
+
+Peru
+
+Romania
+
+São Tomé and Principe
+
+Serbia
+
+South Sudan
+
+Sri Lanka
+
+Sudan
+
+Suriname
+
+Timor-Leste
+
+Tunisia
+
+Venezuela
+
+Western Sahara
+
+
+### Map With AI Update 2019-Nov-07
 
 #### :tada: 50 Newly supported countries!
 
