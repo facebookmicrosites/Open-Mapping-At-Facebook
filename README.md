@@ -6,6 +6,8 @@
 
 ## What's New!
 
+**2019-11-21:** Another 50 countries are now available, including the remainder of South America, Africa, and parts of South East Asia. Fresher Maxar Premium imagery has been used to generate several of the new countries.
+
 **2019-11-07:**  **50** more countries have launched for Map With AI. Check our [What's New Page](WHATSNEW.md) for details!
 
 **2019-10-14:** 10 more countries have launched for Map With AI. Full country exports of our predicted road data are also available for download. Check our [What's New Page](WHATSNEW.md) for details!
