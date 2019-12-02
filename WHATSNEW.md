@@ -1,3 +1,7 @@
+### Map With AI Update 2019-Nov-26
+
+Buildings are now available for mapping in RapiD! Currently supported countries are USA, Canada, Uganda, and Tanzania. Thanks Microsoft for supplying the data.
+
 ### Map With AI Update 2019-Nov-21
 
 #### :tada: 50 more newly supported countries! Complete coverage of South America and Africa. 
