@@ -1,3 +1,181 @@
+###  Map With AI Update 2019-Dec-30
+
+For our final release of 2019, we have released 84 new countries for our AI road data with new coverage in the remainder of Europe, Asia, and Oceania! AI roads are now available nearly globably. 
+
+:tada: Happy New Year! :tada:
+
+
+**New Countries**
+
+American Samoa
+
+Andorra
+
+Armenia
+
+Australia
+
+Austria
+
+Azerbaijan
+
+Bahrain
+
+Belarus
+
+Belgium
+
+British Indian Ocean Territory
+
+Canada
+
+China
+
+Comoros
+
+Cyprus
+
+Czechia
+
+Denmark
+
+Estonia
+
+Fiji
+
+Finland
+
+France
+
+French Polynesia
+
+Georgia
+
+Germany
+
+Guam
+
+Iceland
+
+Iraq
+
+Ireland
+
+Israel
+
+Italy
+
+Japan
+
+Jordan
+
+Kazakhstan
+
+Kiribati
+
+Kosovo
+
+Kuwait
+
+Kyrgyzstan
+
+Latvia
+
+Lebanon
+
+Liechtenstein
+
+Lithuania
+
+Luxembourg
+
+Maldives
+
+Malta
+
+Marshall Islands
+
+Mauritius
+
+Micronesia
+
+Mongolia
+
+Nauru
+
+Netherlands
+
+New Caledonia
+
+New Zealand
+
+Niue
+
+North Mariana Islands
+
+Norway
+
+Oman
+
+Palau
+
+Palestine
+
+Papua New Guinea
+
+Poland
+
+Portugal
+
+Qatar
+
+Russia
+
+Samoa
+
+San Marino
+
+Saudi Arabia
+
+Seychelles
+
+Slovakia
+
+Slovenia
+
+Solomon Islands
+
+South Korea
+
+Spain
+
+St. Pierre and Miquelon
+
+Sweden
+
+Switzerland
+
+Taiwan
+
+Tajikistan
+
+Thailand
+
+Turkmenistan
+
+Ukraine
+
+United Arab Emirates
+
+United Kingdom
+
+Uzbekistan
+
+Vanuatu
+
+Yemen
+
+
 ### Map With AI Update 2019-Nov-26
 
 Buildings are now available for mapping in RapiD! Currently supported countries are USA, Canada, Uganda, and Tanzania. Thanks Microsoft for supplying the data.
