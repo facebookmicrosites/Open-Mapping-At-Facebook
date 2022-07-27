@@ -6,7 +6,7 @@
 
 ## What's New!
 
-**2019-12-30:** 84 new countries are available. Covering the remainder of Europe, Asia, and Oceania. AI roads are now available nearly globally!
+**2019-12-30:** 84 new countries are available. Covering the remainder of Europe, Asia, and Oceania. AI roads are now available nearly globally[^1]!
 
 **2019-11-21:** Another 50 countries are now available, including the remainder of South America, Africa, and parts of South East Asia. Fresher Maxar Premium imagery has been used to generate several of the new countries.
 
@@ -17,7 +17,6 @@
 **2019-10-14:** RapiD v1.0.2 has been released! This version has been merged with [iD v2.15.5](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md#2155), and has a couple of new features. Check [the release note](https://github.com/facebookincubator/RapiD/releases/tag/rapid-v1.0.2) for more details.
 
 **2019-09-27:** 3 more countries have launched for Map With AI. Data is now available in **Democratic Republic of Congo, Zambia, and Turkey**! Check our [What's New Page](WHATSNEW.md) for details!
-
 
 ## General Info
 - Please check out [Mapwith.ai](https://mapwith.ai) to get more information about our **Map With AI** service.
@@ -46,3 +45,7 @@ Please refer to this [list of Available Countries](https://github.com/facebookmi
 #
 
 If you have any questions please contact us at <osm@fb.com>.
+
+
+[^1]:
+    Please note: Several countries are unavailable as per the [Country Guidance document](https://www.bis.doc.gov/index.php/policy-guidance/country-guidance) published by the US Bureau of Industry and Security of export guidelines.     As a result, some countries are specifically omitted from our predictions.
