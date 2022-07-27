@@ -48,4 +48,4 @@ If you have any questions please contact us at <osm@fb.com>.
 
 
 [^1]:
-    Please note: Several countries are unavailable as per the [Country Guidance document](https://www.bis.doc.gov/index.php/policy-guidance/country-guidance) published by the US Bureau of Industry and Security of export guidelines.     As a result, some countries are specifically omitted from our predictions.
+    Please note: Several countries are unavailable as per the [Country Guidance document](https://www.bis.doc.gov/index.php/policy-guidance/country-guidance) published by the US Bureau of Industry and Security.     As a result, some countries are specifically omitted from our predictions.
